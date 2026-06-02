@@ -1,18 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Andrej!
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=HermanAndrej&hide_progress=true&langs_count=10)
+Here's a quick look at my GitHub activity and the technologies I work with most.
 
-<!--
-**HermanAndrej/HermanAndrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats & Streaks
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermanAndrej&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="HermanAndrej's GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HermanAndrej&theme=tokyonight&hide_border=true" alt="HermanAndrej's GitHub Streak" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermanAndrej&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="HermanAndrej's Top Languages" />
+</div>
+
+---
+
+### 🚀 Quick Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=HermanAndrej&color=blueviolet&style=flat-square&label=Profile+Views)

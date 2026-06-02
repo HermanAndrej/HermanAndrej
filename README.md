@@ -55,25 +55,11 @@ I'm an **AI Engineer and backend developer** with hands-on experience designing 
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+### 📊 Top Languages
 
-<div align="center">
-  <img height="180em" src="./profile/stats.svg" alt="Andrej's GitHub Stats" />
-</div>
-<br/>
 <div align="center">
   <img src="./profile/top-langs.svg" alt="Andrej's Top Languages" />
 </div>
-
----
-
-### 🚀 Featured Projects
-
-**[AI Resume Optimizer](https://github.com/HermanAndrej/ai-resume-optimizer)** — Python · FastAPI · HTMX · Claude API · scikit-learn  
-A full-stack AI resume tailoring app with a tiered two-model Claude pipeline (Haiku for parsing, Sonnet for scoring and generation). Features a deterministic no-fabrication validator that traces every generated claim back to a hashed profile snapshot, a TF-IDF + LLM hybrid match scorer, SSE streaming chat, version history with diffs, and ATS-safe DOCX/PDF/LaTeX export.
-
-**[AI Quiz Application](https://github.com/HermanAndrej/AI-Quiz-App)** — Python · FastAPI · MongoDB · React · TypeScript  
-A full-stack AI-powered quiz platform with LLM-based automatic quiz generation. 14 RESTful endpoints with FastAPI and MongoDB (Beanie ODM), authentication and role-based access control, a React + TypeScript frontend, and CI/CD via GitHub Actions deployed behind Nginx with Cloudflare on a DigitalOcean VPS.
 
 ---
 

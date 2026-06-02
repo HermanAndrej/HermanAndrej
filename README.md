@@ -65,7 +65,7 @@ I'm an **AI Engineer and backend developer** with hands-on experience designing 
 
 ### 🌍 Beyond the Code
 
-When I'm not building complex AI workflows, my brain is usually occupied with:
+When I'm not building, my brain is usually occupied with:
 
 * **The Science of AI:** While I love the engineering side, I'm deeply interested in the foundational science behind artificial intelligence. I spend my time exploring machine learning theory, neural network architectures, and the mathematics that make these systems tick.
 * **General Science & Trivia:** I have a profound curiosity for how the universe works, often falling down deep rabbit holes into various scientific fields. My brain is essentially a cache of obscure trivia and nerdy lore!

@@ -29,6 +29,7 @@ I'm an **AI Engineer and backend developer** with hands-on experience designing 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -57,21 +58,22 @@ I'm an **AI Engineer and backend developer** with hands-on experience designing 
 ### 📊 GitHub Stats & Top Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermanAndrej&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Andrej's GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=HermanAndrej&theme=tokyonight&hide_border=true" alt="Andrej's GitHub Streak" />
+  <img height="180em" src="./profile/stats.svg" alt="Andrej's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermanAndrej&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Andrej's Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Andrej's Top Languages" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HermanAndrej&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Andrej's Trophies" />
-</div>
+**[AI Resume Optimizer](https://github.com/HermanAndrej/ai-resume-optimizer)** — Python · FastAPI · HTMX · Claude API · scikit-learn  
+A full-stack AI resume tailoring app with a tiered two-model Claude pipeline (Haiku for parsing, Sonnet for scoring and generation). Features a deterministic no-fabrication validator that traces every generated claim back to a hashed profile snapshot, a TF-IDF + LLM hybrid match scorer, SSE streaming chat, version history with diffs, and ATS-safe DOCX/PDF/LaTeX export.
+
+**[AI Quiz Application](https://github.com/HermanAndrej/AI-Quiz-App)** — Python · FastAPI · MongoDB · React · TypeScript  
+A full-stack AI-powered quiz platform with LLM-based automatic quiz generation. 14 RESTful endpoints with FastAPI and MongoDB (Beanie ODM), authentication and role-based access control, a React + TypeScript frontend, and CI/CD via GitHub Actions deployed behind Nginx with Cloudflare on a DigitalOcean VPS.
 
 ---
 
